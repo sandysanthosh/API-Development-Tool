@@ -313,19 +313,10 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [RESTful Web APIs](http://shop.oreilly.com/product/0636920028468.do)
 - [The Ten Essentials for Good API Documentation](https://alistapart.com/article/the-ten-essentials-for-good-api-documentation)
 
-## Blogs
-- [API Evangelist](http://apievangelist.com/blog/)
-
-## References
-- [HTTP Status Codes Reference](https://httpstatuses.com/)
-
-## Contributing
-[Pull Requests](https://github.com/yosriady/api-development-tools/pulls) are most welcome!
-
-Please write a brief one-sentence summary when adding a new resource.
-
-## Thanks
-**api-development-tools** © 2016+, Yos Riady. Released under the [MIT] License.<br>
-Authored and maintained by Yos Riady with help from contributors ([list][contributors]).
 
 
+<a href="http://starwalt.in/Blogs/index.html">Follow us on Blog</a>
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
